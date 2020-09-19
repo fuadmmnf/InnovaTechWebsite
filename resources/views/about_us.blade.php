@@ -1,5 +1,5 @@
 @extends('layouts.layout')
-@section('title', 'Page Title')
+@section('title', 'About Us')
 
 @section('content')
     <div class="site-wrapper-reveal">
