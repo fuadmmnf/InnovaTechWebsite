@@ -64,8 +64,211 @@
                         </div>
                     </div>
                 </div>
+        <!-- ============ Team Member Wrapper Start =============== -->
+        <div class="team-member-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-title section-space--mb_60 text-center">
+                            <h3 class="heading">We pride ourselves on having a team <br> of <span
+                                    class="text-color-primary">highly-skilled</span> experts</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row ht-team-member-style-two">
+                    <div class="col-lg-4 col-md-6 wow move-up">
+                        <div class="grid-item">
+                            <div class="ht-team-member">
+                                <div class="team-image">
+                                    <img class="img-fluid" src="/images/team/mannan.JPG" alt="">
+                                    <div class="social-networks">
+                                        <div class="inner">
+                                            <a target="_blank" href="https://www.facebook.com/mannan.2195" class=" hint--bounce  hint--top hint--theme-two"
+                                               aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Instagram"><i class="fab fa-instagram"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="team-info text-center">
+                                    <h5 class="name">Md Abdul Mannan</h5>
+                                    <div class="position">Founder & CEO</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow move-up">
+                        <div class="grid-item">
+                            <div class="ht-team-member">
+                                <div class="team-image">
+                                    <img class="img-fluid" src="/images/team/rifat.jpg" alt="">
+                                    <div class="social-networks">
+                                        <div class="inner">
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"
+                                               aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Instagram"><i class="fab fa-instagram"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="team-info text-center">
+                                    <h5 class="name">Md. Nazmul Alam</h5>
+                                    <div class="position">CTO and DEV Lead</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow move-up">
+                        <div class="grid-item">
+                            <div class="ht-team-member">
+                                <div class="team-image">
+                                    <img class="img-fluid" src="/images/team/fuad.jpg" alt="">
+                                    <div class="social-networks">
+                                        <div class="inner">
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"
+                                               aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Instagram"><i class="fab fa-instagram"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="team-info text-center">
+                                    <h5 class="name">Nafis Fuad</h5>
+                                    <div class="position">Project Manager</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row ht-team-member-style-three">
 
+                    <div class="col-lg-3 col-md-6 wow move-up">
+                        <div class="grid-item mb-30">
+                            <div class="ht-team-member">
+                                <div class="team-image">
+                                    <img class="img-fluid" src="/images/team/bappy.jpg" alt="">
+                                    <div class="social-networks">
+                                        <div class="inner">
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"
+                                               aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Instagram"><i class="fab fa-instagram"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="team-info text-center">
+                                    <h6 class="name">Amit Hasan Bappy</h6>
+                                    <div class="position">Software Engineer</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 wow move-up">
+                        <div class="grid-item  mb-30">
+                            <div class="ht-team-member">
+                                <div class="team-image">
+                                    <img class="img-fluid" src="/images/team/asif.jpg" alt="">
+                                    <div class="social-networks">
+                                        <div class="inner">
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"
+                                               aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Instagram"><i class="fab fa-instagram"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="team-info text-center">
+                                    <h6 class="name">Asif Ahmed</h6>
+                                    <div class="position">Software Engineer</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 wow move-up">
+                        <div class="grid-item mb-30">
+                            <div class="ht-team-member">
+                                <div class="team-image">
+                                    <img class="img-fluid" src="/images/team/defaultprofilepic.jpg" alt="">
+                                    <div class="social-networks">
+                                        <div class="inner">
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"
+                                               aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Instagram"><i class="fab fa-instagram"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="team-info text-center">
+                                    <h6 class="name">Humayun Kabir</h6>
+                                    <div class="position">Marketing</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 wow move-up">
+                        <div class="grid-item mb-30">
+                            <div class="ht-team-member">
+                                <div class="team-image">
+                                    <img class="img-fluid" src="/images/team/niaz.jpg" alt="">
+                                    <div class="social-networks">
+                                        <div class="inner">
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"
+                                               aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Instagram"><i class="fab fa-instagram"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="team-info text-center">
+                                    <h6 class="name">Niaz Ahmed Khan</h6>
+                                    <div class="position">Graphic Designer</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
         </div>
-
-
+        <!-- ============ Team Member Wrapper End =============== -->
+        </div>
 @endsection
