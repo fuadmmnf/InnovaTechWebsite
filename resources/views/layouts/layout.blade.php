@@ -138,6 +138,8 @@
                         <li><a href="{{route('services')}}" class="hover-style-link">Services</a></li>
                         <li><a href="{{route('about_us')}}" class="hover-style-link">About Us</a></li>
                         <li><a href="{{route('contact_us')}}" class="hover-style-link">Contact</a></li>
+                        <li><a href="{{route('privacy_policy')}}" class="hover-style-link">Privacy Policy</a></li>
+                        <li><a href="{{route('refund_return_policy')}}" class="hover-style-link">Refund and Return Policy</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 footer-widget">

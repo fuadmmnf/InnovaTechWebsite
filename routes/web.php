@@ -28,3 +28,12 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('contact_us');
 })->name('contact_us');
+
+
+Route::get('/privacy_policy', function () {
+    return view('privacy_policy');
+})->name('privacy_policy');
+
+Route::get('/refund_return_policy', function () {
+    return view('refund_return_policy');
+})->name('refund_return_policy');

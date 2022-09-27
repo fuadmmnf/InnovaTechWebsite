@@ -65,18 +65,18 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="swiper-slide brand-logo brand-logo--slider">
-                                        <a href="#">
-                                            <div class="brand-logo__image">
-                                                <img src="/images/brand/fg-bw.png"
-                                                     class="img-fluid brand-customsize" alt="">
-                                            </div>
-                                            <div class="brand-logo__image-hover">
-                                                <img src="/images/brand/fg.png" class="img-fluid brand-customsize"
-                                                     alt="">
-                                            </div>
-                                        </a>
-                                    </div>
+                                    <!--<div class="swiper-slide brand-logo brand-logo--slider">-->
+                                    <!--    <a href="#">-->
+                                    <!--        <div class="brand-logo__image">-->
+                                    <!--            <img src="/images/brand/fg-bw.png"-->
+                                    <!--                 class="img-fluid brand-customsize" alt="">-->
+                                    <!--        </div>-->
+                                    <!--        <div class="brand-logo__image-hover">-->
+                                    <!--            <img src="/images/brand/fg.png" class="img-fluid brand-customsize"-->
+                                    <!--                 alt="">-->
+                                    <!--        </div>-->
+                                    <!--    </a>-->
+                                    <!--</div>-->
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
@@ -407,29 +407,29 @@
                                     <!-- Projects Wrap End -->
                                 </div>
 
-                                <div class="swiper-slide">
+                                <!--<div class="swiper-slide">-->
                                     <!-- Projects Wrap Start -->
-                                    <a href="#" class="projects-wrap style-01 wow move-up">
-                                        <div class="projects-image-box">
-                                            <div class="projects-image" style="background-color: #c4daf1;">
-                                                <img class="img-fluid casestudyimage"
-                                                     src="/images/projects/fg.png" alt="">
-                                            </div>
-                                            <div class="content">
-                                                <h6 class="heading">FantasyGeek</h6>
-                                                <div class="post-categories">Online Game</div>
-                                                <div class="text">FantasyGeek11 is an online fantasy game designed for
-                                                    the fans who like to showcase their football & cricket knowledge.
-                                                </div>
-                                                <div class="box-projects-arrow">
-                                                    <span class="button-text">View case study</span>
-                                                    <i class="fa fa-long-arrow-right ml-1"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </a>
+                                <!--    <a href="#" class="projects-wrap style-01 wow move-up">-->
+                                <!--        <div class="projects-image-box">-->
+                                <!--            <div class="projects-image" style="background-color: #c4daf1;">-->
+                                <!--                <img class="img-fluid casestudyimage"-->
+                                <!--                     src="/images/projects/fg.png" alt="">-->
+                                <!--            </div>-->
+                                <!--            <div class="content">-->
+                                <!--                <h6 class="heading">FantasyGeek</h6>-->
+                                <!--                <div class="post-categories">Online Game</div>-->
+                                <!--                <div class="text">FantasyGeek11 is an online fantasy game designed for-->
+                                <!--                    the fans who like to showcase their football & cricket knowledge.-->
+                                <!--                </div>-->
+                                <!--                <div class="box-projects-arrow">-->
+                                <!--                    <span class="button-text">View case study</span>-->
+                                <!--                    <i class="fa fa-long-arrow-right ml-1"></i>-->
+                                <!--                </div>-->
+                                <!--            </div>-->
+                                <!--        </div>-->
+                                <!--    </a>-->
                                     <!-- Projects Wrap End -->
-                                </div>
+                                <!--</div>-->
 
                                 <div class="swiper-slide">
                                     <!-- Projects Wrap Start -->
