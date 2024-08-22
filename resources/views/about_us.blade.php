@@ -22,7 +22,7 @@
                         <div class="row">
                             <div class="col-lg-3 offset-lg-1">
                                 <div class="modern-number-01">
-                                    <h2 class="heading  mr-5"><span class="mark-text">05</span></h2>
+                                    <h2 class="heading  mr-5"><span class="mark-text">09</span></h2>
                                     <h6 class="heading mt-30">Years’ Experience in Software Development</h6>
                                 </div>
                             </div>
@@ -80,7 +80,7 @@
                         <div class="grid-item">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="/images/team/mannan.JPG" alt="">
+                                    <img class="img-fluid" src="/images/team/defaultprofilepic.jpg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="https://www.facebook.com/mannan.2195" class=" hint--bounce  hint--top hint--theme-two"
@@ -106,7 +106,7 @@
                         <div class="grid-item">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="/images/team/rifat.jpg" alt="">
+                                    <img class="img-fluid" src="/images/team/defaultprofilepic.jpg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"
@@ -132,7 +132,7 @@
                         <div class="grid-item">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="/images/team/fuad.jpg" alt="">
+                                    <img class="img-fluid" src="/images/team/defaultprofilepic.jpg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"
@@ -156,12 +156,37 @@
                     </div>
                 </div>
                 <div class="row ht-team-member-style-three">
-
+                    <div class="col-lg-3 col-md-6 wow move-up">
+                        <div class="grid-item  mb-30">
+                            <div class="ht-team-member">
+                                <div class="team-image">
+                                    <img class="img-fluid" src="/images/team/defaultprofilepic.jpg" alt="">
+                                    <div class="social-networks">
+                                        <div class="inner">
+                                            <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"
+                                               aria-label="Facebook"><i class="fab fa-facebook"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Twitter"><i class="fab fa-twitter"></i>
+                                            </a>
+                                            <a target="_blank" href="#" class=" hint--bounce hint--top hint--theme-two"
+                                               aria-label="Instagram"><i class="fab fa-instagram"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="team-info text-center">
+                                    <h6 class="name">Rahat Uddin Azad</h6>
+                                    <div class="position">Software Engineer</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-3 col-md-6 wow move-up">
                         <div class="grid-item mb-30">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="/images/team/bappy.jpg" alt="">
+                                    <img class="img-fluid" src="/images/team/defaultprofilepic.jpg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"
@@ -183,12 +208,11 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-6 wow move-up">
                         <div class="grid-item  mb-30">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="/images/team/asif.jpg" alt="">
+                                    <img class="img-fluid" src="/images/team/defaultprofilepic.jpg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"
@@ -210,7 +234,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-6 wow move-up">
                         <div class="grid-item mb-30">
                             <div class="ht-team-member">
@@ -237,12 +260,11 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-6 wow move-up">
                         <div class="grid-item mb-30">
                             <div class="ht-team-member">
                                 <div class="team-image">
-                                    <img class="img-fluid" src="/images/team/niaz.jpg" alt="">
+                                    <img class="img-fluid" src="/images/team/defaultprofilepic.jpg" alt="">
                                     <div class="social-networks">
                                         <div class="inner">
                                             <a target="_blank" href="#" class=" hint--bounce  hint--top hint--theme-two"

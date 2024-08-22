@@ -44,11 +44,11 @@
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="/images/brand/custom-bw.png"
+                                                <img src="images/brand/custom-bw.png"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="/images/brand/custom.png"
+                                                <img src="images/brand/custom.png"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                         </a>
@@ -56,35 +56,11 @@
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="/images/brand/dokankhata-bw.png"
+                                                <img src="images/brand/dokankhata-bw.png"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="/images/brand/dokankhata.png"
-                                                     class="img-fluid brand-customsize" alt="">
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <!--<div class="swiper-slide brand-logo brand-logo--slider">-->
-                                    <!--    <a href="#">-->
-                                    <!--        <div class="brand-logo__image">-->
-                                    <!--            <img src="/images/brand/fg-bw.png"-->
-                                    <!--                 class="img-fluid brand-customsize" alt="">-->
-                                    <!--        </div>-->
-                                    <!--        <div class="brand-logo__image-hover">-->
-                                    <!--            <img src="/images/brand/fg.png" class="img-fluid brand-customsize"-->
-                                    <!--                 alt="">-->
-                                    <!--        </div>-->
-                                    <!--    </a>-->
-                                    <!--</div>-->
-                                    <div class="swiper-slide brand-logo brand-logo--slider">
-                                        <a href="#">
-                                            <div class="brand-logo__image">
-                                                <img src="/images/brand/duits-bw.png"
-                                                     class="img-fluid brand-customsize" alt="">
-                                            </div>
-                                            <div class="brand-logo__image-hover">
-                                                <img src="/images/brand/duits.png"
+                                                <img src="images/brand/dokankhata.png"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                         </a>
@@ -92,11 +68,11 @@
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="/images/brand/killa-bw.png"
+                                                <img src="images/brand/3a-foods-bw.png"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="/images/brand/killa.png"
+                                                <img src="images/brand/3a-foods.png"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                         </a>
@@ -104,11 +80,72 @@
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="/images/brand/ji-bw.png"
+                                                <img src="images/brand/e-aid-bw.png"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="/images/brand/ji.jpg" class="img-fluid brand-customsize"
+                                                <img src="images/brand/e-aid.jpg"
+                                                     class="img-fluid brand-customsize" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="images/brand/bhl-bw.png"
+                                                     class="img-fluid brand-customsize" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="images/brand/bhl.png"
+                                                     class="img-fluid brand-customsize" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="images/brand/fg-bw.png"
+                                                     class="img-fluid brand-customsize" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="images/brand/fg.png" class="img-fluid brand-customsize"
+                                                     alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="images/brand/duits-bw.png"
+                                                     class="img-fluid brand-customsize" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="images/brand/duits.png"
+                                                     class="img-fluid brand-customsize" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="images/brand/killa-bw.png"
+                                                     class="img-fluid brand-customsize" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="images/brand/killa.png"
+                                                     class="img-fluid brand-customsize" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="images/brand/ji-bw.png"
+                                                     class="img-fluid brand-customsize" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="images/brand/ji.jpg" class="img-fluid brand-customsize"
                                                      alt="">
                                             </div>
                                         </a>
@@ -116,11 +153,11 @@
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="/images/brand/easyschool-bw.png"
+                                                <img src="images/brand/easyschool-bw.png"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="/images/brand/easyschool.PNG"
+                                                <img src="images/brand/easyschool.PNG"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                         </a>
@@ -128,11 +165,11 @@
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="/images/brand/innoatt-bw.png"
+                                                <img src="images/brand/innoatt-bw.png"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="/images/brand/innoatt.PNG"
+                                                <img src="images/brand/innoatt.PNG"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                         </a>
@@ -140,11 +177,11 @@
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="/images/brand/surjossl-bw.png"
+                                                <img src="images/brand/surjossl-bw.png"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="/images/brand/surjossl.png"
+                                                <img src="images/brand/surjossl.png"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                         </a>
@@ -152,11 +189,11 @@
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="/images/brand/loyal-bw.jpg"
+                                                <img src="images/brand/loyal-bw.jpg"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="/images/brand/loyal.jpg"
+                                                <img src="images/brand/loyal.jpg"
                                                      class="img-fluid brand-customsize" alt="">
                                             </div>
                                         </a>
@@ -342,7 +379,6 @@
         <!--===========  Projects wrapper Start =============-->
         <div class="projects-wrapper projectinfotechno-bg section-space--ptb_100">
             <div class="container">
-
                 <div class="row">
                     <div class="col-lg-12">
                         <!-- section-title-wrap Start -->
@@ -365,11 +401,11 @@
                                         <div class="projects-image-box">
                                             <div class="projects-image" style="background-color: #f0f1f6;">
                                                 <img class="img-fluid casestudyimage"
-                                                     src="/images/projects/dokankhata.PNG" alt="">
+                                                     src="images/projects/dokankhata.PNG" alt="">
                                             </div>
                                             <div class="content">
                                                 <h6 class="heading">DokanKhata</h6>
-                                                <div class="post-categories">SME Management</div>
+                                                <div class="post-categories">Shop/Business Management Software</div>
                                                 <div class="text">An online-based store management software. By using
                                                     this software, shop owners can easily manage their business.
                                                 </div>
@@ -387,57 +423,9 @@
                                     <!-- Projects Wrap Start -->
                                     <a href="#" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
-                                            <div class="projects-image" style="background-color: #f2e7e3;">
-                                                <img class="img-fluid casestudyimage"
-                                                     src="/images/projects/easyschool.PNG" alt="">
-                                            </div>
-                                            <div class="content">
-                                                <h6 class="heading">Easy School</h6>
-                                                <div class="post-categories">School Managemnet</div>
-                                                <div class="text">Online based school management software that’s Simple,
-                                                    Affordable and Flexible for all kind of schools in Bangladesh.
-                                                </div>
-                                                <div class="box-projects-arrow">
-                                                    <span class="button-text">View case study</span>
-                                                    <i class="fa fa-long-arrow-right ml-1"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </a>
-                                    <!-- Projects Wrap End -->
-                                </div>
-
-                                <!--<div class="swiper-slide">-->
-                                    <!-- Projects Wrap Start -->
-                                <!--    <a href="#" class="projects-wrap style-01 wow move-up">-->
-                                <!--        <div class="projects-image-box">-->
-                                <!--            <div class="projects-image" style="background-color: #c4daf1;">-->
-                                <!--                <img class="img-fluid casestudyimage"-->
-                                <!--                     src="/images/projects/fg.png" alt="">-->
-                                <!--            </div>-->
-                                <!--            <div class="content">-->
-                                <!--                <h6 class="heading">FantasyGeek</h6>-->
-                                <!--                <div class="post-categories">Online Game</div>-->
-                                <!--                <div class="text">FantasyGeek11 is an online fantasy game designed for-->
-                                <!--                    the fans who like to showcase their football & cricket knowledge.-->
-                                <!--                </div>-->
-                                <!--                <div class="box-projects-arrow">-->
-                                <!--                    <span class="button-text">View case study</span>-->
-                                <!--                    <i class="fa fa-long-arrow-right ml-1"></i>-->
-                                <!--                </div>-->
-                                <!--            </div>-->
-                                <!--        </div>-->
-                                <!--    </a>-->
-                                    <!-- Projects Wrap End -->
-                                <!--</div>-->
-
-                                <div class="swiper-slide">
-                                    <!-- Projects Wrap Start -->
-                                    <a href="#" class="projects-wrap style-01 wow move-up">
-                                        <div class="projects-image-box">
                                             <div class="projects-image" style="background-color: #f0f1f6;">
                                                 <img class="img-fluid casestudyimage"
-                                                     src="/images/projects/cvcsbd.PNG" alt="">
+                                                     src="images/projects/cvcsbd.PNG" alt="">
                                             </div>
                                             <div class="content">
                                                 <h6 class="heading">CVCS BANGLADESH</h6>
@@ -460,14 +448,12 @@
                                         <div class="projects-image-box">
                                             <div class="projects-image" style="background-color: #f2e7e3;">
                                                 <img class="img-fluid casestudyimage"
-                                                     src="/images/projects/innoatt.PNG" alt="">
+                                                     src="images/projects/3afoods.png" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Innova Attendance</h6>
-                                                <div class="post-categories">Attendance Management</div>
-                                                <div class="text">An online based attendance management application. It
-                                                    is designed to take attendance of teachers and students of primary
-                                                    schools.
+                                                <h6 class="heading">3A Foods</h6>
+                                                <div class="post-categories">Food Supply Chain Management</div>
+                                                <div class="text">3A Foods is one of Australia's most popular food supply chain management companies in Western Australia. Established in 2015
                                                 </div>
                                                 <div class="box-projects-arrow">
                                                     <span class="button-text">View case study</span>
@@ -478,13 +464,153 @@
                                     </a>
                                     <!-- Projects Wrap End -->
                                 </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="projects-wrap swiper-container projects-slider__container">
+                            <div class="swiper-wrapper">
+
+
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image" style="background-color: #f2e7e3;">
+                                                <img class="img-fluid casestudyimage"
+                                                     src="images/projects/e-aid.png" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">Exclusive Education Aid(E-Aid)</h6>
+                                                <div class="post-categories">eLearning Platfrom</div>
+                                                <div class="text">Leading Online based eLearning Platfrom for Medical Students and Doctors in Bangladesh.
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
                                 <div class="swiper-slide">
                                     <!-- Projects Wrap Start -->
                                     <a href="#" class="projects-wrap style-01 wow move-up">
                                         <div class="projects-image-box">
                                             <div class="projects-image" style="background-color: #c4daf1;">
                                                 <img class="img-fluid casestudyimage"
-                                                     src="/images/projects/surjossl.PNG" alt="">
+                                                     src="images/projects/bhl.png" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">Basar Himager Limited</h6>
+                                                <div class="post-categories">Cold Storage Management Software</div>
+                                                <div class="text">Basar Himager is An online based Cold Storage Management Software, located in Rajshahi, Bangladesh
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image" style="background-color: #f0f1f6;">
+                                                <img class="img-fluid casestudyimage"
+                                                     src="images/projects/duits.png" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">Dhaka University IT Soceity</h6>
+                                                <div class="post-categories">Management Software</div>
+                                                <div class="text">A web-based application for Dhaka University IT Soceity to conduct all of their activities online.
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="projects-wrap swiper-container projects-slider__container">
+                            <div class="swiper-wrapper">
+
+
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image" style="background-color: #f2e7e3;">
+                                                <img class="img-fluid casestudyimage"
+                                                     src="images/projects/easyschool.PNG" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">Easy School</h6>
+                                                <div class="post-categories">School Managemnet</div>
+                                                <div class="text">Online based school management software that’s Simple,
+                                                    Affordable and Flexible for all kind of schools in Bangladesh.
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image" style="background-color: #c4daf1;">
+                                                <img class="img-fluid casestudyimage"
+                                                     src="images/projects/fg.png" alt="">
+                                            </div>
+                                            <div class="content">
+                                                <h6 class="heading">FantasyGeek</h6>
+                                                <div class="post-categories">Online Game</div>
+                                                <div class="text">FantasyGeek11 is an online fantasy game designed for
+                                                    the fans who like to showcase their football & cricket knowledge.
+                                                </div>
+                                                <div class="box-projects-arrow">
+                                                    <span class="button-text">View case study</span>
+                                                    <i class="fa fa-long-arrow-right ml-1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- Projects Wrap End -->
+                                </div>
+
+
+                                <div class="swiper-slide">
+                                    <!-- Projects Wrap Start -->
+                                    <a href="#" class="projects-wrap style-01 wow move-up">
+                                        <div class="projects-image-box">
+                                            <div class="projects-image" style="background-color: #c4daf1;">
+                                                <img class="img-fluid casestudyimage"
+                                                     src="images/projects/surjossl.PNG" alt="">
                                             </div>
                                             <div class="content">
                                                 <h6 class="heading">SURJOSSL</h6>
@@ -503,7 +629,6 @@
                                 </div>
 
                             </div>
-                            <div class="swiper-pagination swiper-pagination-project mt_20"></div>
                         </div>
                     </div>
                 </div>

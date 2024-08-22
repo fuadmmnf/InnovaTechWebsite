@@ -170,7 +170,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6 text-center text-md-left">
-                        <span class="copyright-text">&copy; 2020 InnovaTech. <a href="https://innovabd.tech/">All Rights
+                        <span class="copyright-text">&copy; 2024 InnovaTech. <a href="https://innovabd.tech/">All Rights
                                 Reserved.</a></span>
                 </div>
                 <div class="col-md-6 text-center text-md-right">
@@ -367,6 +367,7 @@
 <!-- Main JS -->
 <script src="/js/main.js"></script>
 
+@yield('js')
 
 </body>
 
